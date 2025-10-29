@@ -37,7 +37,6 @@ This shift from cubic to linear complexity decouples the computational cost from
 
 Hypothetical results from the paper show that while Standard Agents and other methods (like Full Recursive Summarization or Retrieval-Augmentation) suffer a rapid decline in task success, PCC maintains a robust and high success rate, effectively shattering the 15-step wall.
 
-*(Action Required: Replace this placeholder with Figure 1 from your paper to give viewers an immediate, powerful visual of PCC's advantage.)*
 
 ## 📚 Read the Full Paper
 
