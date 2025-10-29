@@ -1,0 +1,1 @@
+# Periodic Context Compression (PCC) Research Paper\n\nThis repository contains the source files and the final PDF for the research paper on Periodic Context Compression (PCC), a novel memory management strategy for scaling multi-step reasoning in Large Language Models (LLMs).
